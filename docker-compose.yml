@@ -13,3 +13,4 @@ services:
       POSTGRES_USER: app
       POSTGRES_PASSWORD: password
       POSTGRES_DB: app
+      PGDATA: /tmp
